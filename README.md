@@ -1,3 +1,5 @@
 # my-website
 
-This will make a conflict
+This file is just a readme file
+
+combined one
